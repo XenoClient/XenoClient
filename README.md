@@ -1,5 +1,5 @@
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/979d763c-6ac8-40cd-98f3-bfb083ecb9d4" />
+<img width="124" height="124" alt="image" src="https://github.com/user-attachments/assets/979d763c-6ac8-40cd-98f3-bfb083ecb9d4" />
 
 
 > # [Xeno Client](https://xenoclient.com)
