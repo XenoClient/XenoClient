@@ -1,9 +1,10 @@
-<p align="center">
-  <img src="https://xenoclient.com/xenos.png" alt="Xeno Client Logo" width="200"/>
-</p>
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/979d763c-6ac8-40cd-98f3-bfb083ecb9d4" />
+
 
 > # [Xeno Client](https://xenoclient.com)
 > # The Best Client For DonutSMP
+
 ‎ 
 ‎ 
 ‎ 
