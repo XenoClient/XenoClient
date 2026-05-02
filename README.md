@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://xenoclient.netlify.app/xenos.png" alt="Xeno Client Logo" width="200"/>
+  <img src="https://xenoclient.com/xenos.png" alt="Xeno Client Logo" width="200"/>
 </p>
 
-> # [Xeno Client](https://xenoclient.lol)
+> # [Xeno Client](https://xenoclient.com)
 > # The Best Client For DonutSMP
 ‎ 
 ‎ 
